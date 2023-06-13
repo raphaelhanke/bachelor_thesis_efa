@@ -7,14 +7,14 @@ In factor analysis the scientist influences model construction. He determines es
 
 <h2>Ressources</h2>
 
-- <b>[Read Full Research](https://github.com/raphaelhanke/bachelor_thesis_efa/thesis.pdf)</b>
-- <b>[R Script](https://github.com/raphaelhanke/bachelor_thesis_efa/B.Sc_Script.R)</b>
-- <b>[R Shiny Application](https://github.com/raphaelhanke/bachelor_thesis_efa/B.Sc_Shiny.)</b>
+- <b>[Read Full Research](https://github.com/raphaelhanke/bachelor_thesis_efa/blob/main/thesis.pdf)</b>
+- <b>[R Script](https://github.com/raphaelhanke/bachelor_thesis_efa/blob/main/B.Sc_Script.R)</b>
+- <b>[R Shiny Application](https://github.com/raphaelhanke/bachelor_thesis_efa/blob/main/B.Sc_Shiny.R)</b>
 
 
 <h2>Credits</h2>
 
-The research has been conducted during the Bachelors Program "Business Administration" and in collaboration with the Center for Applied Statistics and Economics (CASE) and the Ladislaus von Bortkiewicz Chair of Statistics of HU Berlin.
+The research has been conducted as Bachelors Thesis for the Program "Business Administration" and in collaboration with the Center for Applied Statistics and Economics (CASE) and the Ladislaus von Bortkiewicz Chair of Statistics of HU Berlin.
 
 
-<img src="https://drive.google.com/uc?id=1gQmYBb0UviMl2h9hD1tgYQWm7RUewbY9" height="20%" width="20%" alt="HU Berlin"/> 
+<img src="https://drive.google.com/uc?id=1RGnmoaPCNRuF4YU_4G1Oc5hxkExxq2o7" height="20%" width="20%" alt="HU Berlin"/> 
