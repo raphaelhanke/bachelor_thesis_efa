@@ -1,4 +1,4 @@
-# Optimal mix in heterogeneous ensemble learner (2018, HU Berlin)
+## Optimal mix in heterogeneous ensemble learner (2018, HU Berlin)
 
 <h2>Abstract</h2>
 
